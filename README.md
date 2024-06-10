@@ -1,3 +1,4 @@
+## POS mission with AWS
 ## AWS Amplify Backend-Only Starter Template
 
 This repository provides a streamlined process for building backend-only applications using AWS Amplify. Whether you're new to Amplify or a seasoned developer, this repository aims to simplify the setup and deployment of your backend infrastructure with pre-configured AWS services like Cognito, AppSync, and DynamoDB.
